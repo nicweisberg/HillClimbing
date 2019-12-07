@@ -1,5 +1,5 @@
 import localsearch as Search
-import a2q1 as problem
+import Problem as problem
 import time as time
 
 
